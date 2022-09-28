@@ -1,3 +1,3 @@
 # RTL-Template
 
-I made this template to improve my skills in Bootstrap
+An Arabic Template that was made to improve and exercise on my skills in Bootstrap, HTML and CSS.
